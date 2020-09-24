@@ -1,5 +1,5 @@
 {
-  "name": "demo api",
+  "name": "demo-api-for-mankks",
   "version": "0.0.1",
   "description": "list a simple list of products",
   "main": "app.js",
